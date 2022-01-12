@@ -4,7 +4,7 @@
 #include <iostream>
 #include <stdexcept>
 
-//#include "boost/filesystem.hpp"
+#include "boost/filesystem.hpp"
 
 auto example() -> void {
   throw std::runtime_error("not implemented");
